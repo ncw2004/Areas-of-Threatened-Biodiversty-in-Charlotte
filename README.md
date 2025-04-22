@@ -1,2 +1,2 @@
-Contains a final project done for an Introduction GIS class, in fall semester of 2024. Report file summarizes results and findings of project, 
-as well as the method behind product. The final product file is the compressed .zip file. 
+Contains a final project done for an Introduction GIS class, in fall semester of 2024. Essentially, impervious surface data was used to model growth within the next ten years
+and determine where this threatened areas of habitat, biodiversity, and conservation interest. Data used is referenced on report .pdf document. Report file summarizes results and findings of project, the method behind product and data. The final product file is the compressed .zip file. 
